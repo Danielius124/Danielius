@@ -5,7 +5,7 @@
 2.2 if you want to get building by Id for example use http://localhost:8080/api/buildings/10001 and you get information about single building.
 2.3 to create new building you should use Post method in postman or etc. http://localhost:8080/api/buildings to create new building you should
 send POST method with body. Choose raw and JSON format.
-2.4 if you want to update your building to almost the same like in previous tip but use PUT method instead of POST method, and into method body,
+2.4 if you want to update your building, make some changes: use PUT method instead of POST method, and into method body,
 write ID of building which you want to UPDATE!!
 2.5 if you want to delete building for example use http://localhost:8080/api/buildings/10001 and the building will be succesfully deleted.
 2.6 Tax calculator, to use tax calculator you should use link: http://localhost:8080/api/tax/{ownerName}, this endpoint calculate the total 
