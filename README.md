@@ -1,4 +1,4 @@
-!!!!!!!INSTRUCTION!!!!
+!!!!!!!INSTRUCTION!!!!!!!
 1. Clone my project from GitHub or just open it directly in your IDE with GitHub link.
 2. My program has basic CRUD operations and some more(getAllBuildings, getBuilding(by Id), addBuilding, updateBuilding, deleteBuildingById, taxByOwnedProperties, findByStreetAndType)
 2.1 to reach an endpoint getAllBuilding you need to start the program, and write in to your browser http://localhost:8080/api/buildings/ and you will get all buildings stored in database.
