@@ -24,3 +24,4 @@ WHAT I USED!!
 5. Spring DATA JPA
 6. Hibernate
 7. H2 in memory database
+8. Mockito
