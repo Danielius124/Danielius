@@ -1,7 +1,7 @@
 !!!!!!!INSTRUCTION!!!!
 1. Clone my project from GitHub or just open it directly in your IDE with GitHub link.
 2. My program has basic CRUD operations and some more(getAllBuildings, getBuilding(by Id), addBuilding, updateBuilding, deleteBuildingById, taxByOwnedProperties, findByStreetAndType)
-2.1 to reach a endpoint getAllBuilding you need to start the program, and write in to your browser http://localhost:8080/api/buildings/ and you will get all building stored in database.
+2.1 to reach an endpoint getAllBuilding you need to start the program, and write in to your browser http://localhost:8080/api/buildings/ and you will get all buildings stored in database.
 2.2 if you want to get building by Id, for example use http://localhost:8080/api/buildings/10001 and you get information about single building.
 2.3 to create new building you should use Post method in postman or etc. http://localhost:8080/api/buildings to create new building you should
 send POST method with body. Choose raw and JSON format.
